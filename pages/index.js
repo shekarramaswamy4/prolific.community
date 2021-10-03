@@ -16,7 +16,7 @@ export default function Home() {
           prolific
         </h1>
         <p className={styles.description}> 
-            We are a community of builders just tinkering with stuff. New themes and projects ~every two weeks!
+            We are a community of builders just tinkering with stuff. Join us to learn cool things and meet dope people!
         </p>
 
         <div className={styles.projects}>
