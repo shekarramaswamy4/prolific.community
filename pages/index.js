@@ -28,6 +28,17 @@ export default function Home() {
           <p>shekar || next.js, vercel</p>
           </div>
         </div>
+
+        <div className={styles.projects}>
+          <div className={styles.project}>
+          <a href="https://github.com/shekarramaswamy4/phishing">
+            <h2>9.25.2021: privacy extension</h2>
+          </a>
+          <p>Highlight sketchy links in gmail, block FB ads (for some people)</p>
+          <p>shekar || typescript, chrome extension</p>
+          </div>
+        </div>
+
       </main>
 
     <footer>
