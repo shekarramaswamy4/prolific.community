@@ -21,11 +21,21 @@ export default function Home() {
 
         <div className={styles.projects}>
           <div className={styles.project}>
-          <a href="https://github.com/shekarramaswamy4/prolific.community">
-            <h2>9.3.2021: prolific.community</h2>
+          <a href="https://github.com/shekarramaswamy4/imessage-assistant">
+            <h2>11.11.2021: iMessage Assistant</h2>
           </a>
-          <p>An attempt at web development.</p>
-          <p>shekar || next.js, vercel</p>
+          <p>Mac menu bar app that notifies you when you forgot to respond to someone.</p>
+          <p>shekar || swift</p>
+          </div>
+        </div>
+
+        <div className={styles.projects}>
+          <div className={styles.project}>
+          <a href="https://github.com/shekarramaswamy4/solana-raffle">
+            <h2>10.12.2021: Solana Raffle</h2>
+          </a>
+          <p>Solana raffle smart contract (mostly done)</p>
+          <p>shekar || solana, rust</p>
           </div>
         </div>
 
@@ -38,6 +48,17 @@ export default function Home() {
           <p>shekar || typescript, chrome extension</p>
           </div>
         </div>
+
+        <div className={styles.projects}>
+          <div className={styles.project}>
+          <a href="https://github.com/shekarramaswamy4/prolific.community">
+            <h2>9.3.2021: prolific.community</h2>
+          </a>
+          <p>An attempt at web development.</p>
+          <p>shekar || next.js, vercel</p>
+          </div>
+        </div>
+
 
       </main>
 
